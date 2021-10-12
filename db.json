@@ -11,7 +11,7 @@
                 }
             ],
             "description": "Logo design inspired by guitar strings.",
-            "path": "brand-music-speaks"
+            "path-name": "brand-music-speaks"
         },
         {
             "id": "2",
@@ -27,7 +27,7 @@
                 }
             ],
             "description": "UX/UI and brand design for a creative agency focused on industrial marketing.",
-            "path": "ux-ui-brand-forward"
+            "path-name": "ux-ui-brand-forward"
         },
         {
             "id": "3",
@@ -46,7 +46,7 @@
                 }
             ],
             "description": "Illustrations and booklet design for a local church's small group directory.",
-            "path": "print-liberty-groups" 
+            "path-name": "print-liberty-groups" 
         },
         {
             "id": "4",
@@ -59,7 +59,7 @@
                 }
             ],
             "description": "Brand Design for a science, technology, engineering and mathematics recruiting firm startup.",
-            "path": "brand-stem-research-group" 
+            "path-name": "brand-stem-research-group" 
         },
         {
             "id": "5",
@@ -72,7 +72,7 @@
                 }
             ],
             "description": "This illustration called “Drifting” was created completely in Adobe Illustrator on a day of quarantine during the Covid-19 crisis.",
-            "path": "illustration/drifting"
+            "path-name": "illustration/drifting"
         },
         {
             "id": "6",
@@ -88,7 +88,7 @@
                 }
             ],
             "description": "Friendship Productions brand development for a church video production group.  Designed in Illustrator and animated in After Effects.",
-            "path": "brand-motion-graohic-friendship-productions"
+            "path-name": "brand-motion-graohic-friendship-productions"
         },
         
 
@@ -106,7 +106,7 @@
                 }
             ],
             "description": "UX/UI and brand design for a manufacturing company focused on cables and assemblies.",
-            "path": "ux-ui-sanlo"
+            "path-name": "ux-ui-sanlo"
         },
         {
             "id": "8",
@@ -122,7 +122,7 @@
                 }
             ],
             "description": "Using patterns and varying line strokes, this illustration attempts to capture the elegance and intricacies of shared Church History. This was sketched as a part of a larger print project focused on depicting church history in a new and engaging way.",
-            "path": "illustration/church-history"
+            "path-name": "illustration/church-history"
         },
         {
             "id": "9",
@@ -141,7 +141,7 @@
                 }
             ],
             "description": "UX/UI and brand design for a manufacturing company focused on inddustrial wires. This project's deliverables included a full icon library, full website design, print design and even video production.",
-            "path": "ux-ui-brand-central-wire-industries"
+            "path-name": "ux-ui-brand-central-wire-industries"
         },
         {
             "id": "10",
@@ -157,7 +157,7 @@
                 }
             ],
             "description": "The love of coffee leads designers like me to making things like this. This coffee brand uses a mix of organic lines and elegant typography to give off the sense of smooth luxury - something that I'd bet most coffee drinkers are looking for in their daily grinds.",
-            "path": "brand-master-coffee-co"
+            "path-name": "brand-master-coffee-co"
         },
         {
             "id": "11",
@@ -173,7 +173,7 @@
                 }
             ],
             "description": "Photography and ad layout design for a local eco-friendly bag distributer.",
-            "path": "print-indicus-bag" 
+            "path-name": "print-indicus-bag" 
         },
         {
             "id": "12",
@@ -189,7 +189,7 @@
                 }
             ],
             "description": "Photography and ad layout design for a local eco-friendly bag distributer.",
-            "path": "indicus-bags-ad" 
+            "path-name": "indicus-bags-ad" 
         }
     ]
 }
