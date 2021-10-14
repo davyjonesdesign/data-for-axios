@@ -3,7 +3,7 @@
         {
             "id": "1",
             "label": "Branding",
-            "img": "assets/portfolio/music-speaks.png",
+            "img": "assets/music-speaks.png",
             "title": "Branding: Music Speaks Logo",
             "tags": [
                 {
@@ -16,7 +16,7 @@
         {
             "id": "2",
             "label": "UX / UI Design",
-            "img": "assets/portfolio/fwd/fwd-home.png",
+            "img": "assets/fwd/fwd-home.png",
             "title": "Branding + UX / UI: Forward",
             "tags": [
                 {
@@ -32,7 +32,7 @@
         {
             "id": "3",
             "label": "Print Design",
-            "img": "assets/portfolio/lbc-booklet-2.png",
+            "img": "assets/lbc-booklet-2.png",
             "title": "Print Design + Illustration: LBC",
             "tags": [
                 {
@@ -51,7 +51,7 @@
         {
             "id": "4",
             "label": "Branding",
-            "img": "assets/portfolio/stem-brand.png",
+            "img": "assets/stem-brand.png",
             "title": "Branding: STEM Research Group",
             "tags": [
                 {
@@ -64,7 +64,7 @@
         {
             "id": "5",
             "label": "Illustration",
-            "img": "assets/portfolio/drifting.jpg",
+            "img": "assets/drifting.jpg",
             "title": "Illustration: Drifting",
             "tags": [
                 {
@@ -77,7 +77,7 @@
         {
             "id": "6",
             "label": "Branding",
-            "vid": "assets/portfolio/friendship-production-vid.mp4",
+            "vid": "assets/friendship-production-vid.mp4",
             "title": "Brand & Motion Graphics",
             "tags": [
                 {
@@ -95,7 +95,7 @@
         {
             "id": "7",
             "label": "UX / UI Design",
-            "img": "assets/portfolio/sanlo/sanlo_blog.png",
+            "img": "assets/sanlo/sanlo_blog.png",
             "title": "UX / UI: Sanlo",
             "tags": [
                 {
@@ -111,7 +111,7 @@
         {
             "id": "8",
             "label": "Illustration",
-            "img": "assets/portfolio/church-history.png",
+            "img": "assets/church-history.png",
             "title": "Illustration: Church History",
             "tags": [
                 {
@@ -127,7 +127,7 @@
         {
             "id": "9",
             "label": "UX / UI Design",
-            "img": "assets/portfolio/cwi-website.png",
+            "img": "assets/cwi-website.png",
             "title": "UX / UI + Branding: CWI",
             "tags": [
                 {
@@ -146,7 +146,7 @@
         {
             "id": "10",
             "label": "Branding",
-            "img": "assets/portfolio/master-coffee.jpg",
+            "img": "assets/master-coffee.jpg",
             "title": "Branding: Coffee Logo",
             "tags": [
                 {
@@ -162,7 +162,7 @@
         {
             "id": "11",
             "label": "Print Design",
-            "img": "assets/portfolio/indicus-bag.png",
+            "img": "assets/indicus-bag.png",
             "title": "Print Design: Indicus Bags Magazine Ad",
             "tags": [
                 {
@@ -178,7 +178,7 @@
         {
             "id": "12",
             "label": "Motion Graphics",
-            "vid": "assets/portfolio/missions-motion-graphic.mp4",
+            "vid": "assets/missions-motion-graphic.mp4",
             "title": "Hey",
             "tags": [
                 {
