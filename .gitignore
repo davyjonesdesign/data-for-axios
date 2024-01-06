@@ -106,4 +106,5 @@ dist
 .psb
 .psd
 assets/wmstudies/nehemiah.psb
+assets/wikiUI/wikiUI.psb
 assets/wmstudies/.DS_Store
