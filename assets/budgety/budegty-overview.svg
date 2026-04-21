@@ -1,0 +1,23 @@
+<svg width="1600" height="1000" viewBox="0 0 1600 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1000" fill="#F5F8FC"/>
+  <text x="70" y="95" font-size="56" font-family="Inter, Arial, sans-serif" font-weight="700" fill="#162542">Budgety — Overview Flow</text>
+  <text x="70" y="145" font-size="28" font-family="Inter, Arial, sans-serif" fill="#475569">Onboarding to first monthly budget setup</text>
+
+  <rect x="90" y="240" width="430" height="520" rx="24" fill="white" stroke="#E2E8F0" stroke-width="3"/>
+  <circle cx="150" cy="320" r="32" fill="#3B82F6"/><text x="150" y="330" text-anchor="middle" font-size="28" font-family="Inter, Arial" font-weight="700" fill="white">1</text>
+  <text x="120" y="395" font-size="34" font-family="Inter, Arial" font-weight="700" fill="#162542">Connect Accounts</text>
+  <text x="120" y="450" font-size="24" font-family="Inter, Arial" fill="#475569">Link checking and cards securely</text>
+
+  <rect x="580" y="240" width="430" height="520" rx="24" fill="white" stroke="#E2E8F0" stroke-width="3"/>
+  <circle cx="640" cy="320" r="32" fill="#3B82F6"/><text x="640" y="330" text-anchor="middle" font-size="28" font-family="Inter, Arial" font-weight="700" fill="white">2</text>
+  <text x="610" y="395" font-size="34" font-family="Inter, Arial" font-weight="700" fill="#162542">Set Budget</text>
+  <text x="610" y="450" font-size="24" font-family="Inter, Arial" fill="#475569">Define monthly income and limits</text>
+
+  <rect x="1070" y="240" width="430" height="520" rx="24" fill="white" stroke="#E2E8F0" stroke-width="3"/>
+  <circle cx="1130" cy="320" r="32" fill="#3B82F6"/><text x="1130" y="330" text-anchor="middle" font-size="28" font-family="Inter, Arial" font-weight="700" fill="white">3</text>
+  <text x="1100" y="395" font-size="34" font-family="Inter, Arial" font-weight="700" fill="#162542">First Snapshot</text>
+  <text x="1100" y="450" font-size="24" font-family="Inter, Arial" fill="#475569">Review plan, alerts, and goals</text>
+
+  <line x1="520" y1="500" x2="560" y2="500" stroke="#94A3B8" stroke-width="8"/>
+  <line x1="1010" y1="500" x2="1050" y2="500" stroke="#94A3B8" stroke-width="8"/>
+</svg>
